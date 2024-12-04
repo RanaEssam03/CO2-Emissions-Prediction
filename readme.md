@@ -1,4 +1,4 @@
-# CO2 Emissions Analysis
+# CO2 Emissions Prediction
 
 ## Overview
 This project focuses on analyzing CO2 emissions data and building machine learning models to predict:
